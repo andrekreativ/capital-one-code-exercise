@@ -35,3 +35,4 @@ https://www.microsoft.com/net/core#windowsvs2017
 # Tests:
 + Unit tests for each component, plug-in and algorithm.
 + TODO: Add unit tests for the controller itself.
++ TODO: Add Integration, performance and stress tests.
