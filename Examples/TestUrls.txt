@@ -1,0 +1,7 @@
+http://localhost:1515/api/summaries?crystalBall=false&ignoreCcPayments=false&ignoreDonuts=false
+http://localhost:1515/api/summaries?crystalBall=false&ignoreCcPayments=false&ignoreDonuts=true
+http://localhost:1515/api/summaries?crystalBall=false&ignoreCcPayments=true&ignoreDonuts=false
+http://localhost:1515/api/summaries?crystalBall=true&ignoreCcPayments=false&ignoreDonuts=false
+http://localhost:1515/api/summaries?crystalBall=true&ignoreCcPayments=false&ignoreDonuts=true
+http://localhost:1515/api/summaries?crystalBall=true&ignoreCcPayments=true&ignoreDonuts=false
+http://localhost:1515/api/summaries?crystalBall=true&ignoreCcPayments=true&ignoreDonuts=true

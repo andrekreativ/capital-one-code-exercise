@@ -1,0 +1,170 @@
+[
+  {
+    "ignoreDonuts": false,
+    "crystalBall": true,
+    "ignoreCcPayments": false,
+    "averageMonth": {
+      "description": "Average",
+      "spent": "-$3,518.24",
+      "income": "$3,428.40"
+    },
+    "months": [
+      {
+        "description": "2017-4",
+        "spent": "-$3,685.60",
+        "income": "$3,937.27"
+      },
+      {
+        "description": "2017-3",
+        "spent": "-$4,246.77",
+        "income": "$3,470.61"
+      },
+      {
+        "description": "2017-2",
+        "spent": "-$3,486.14",
+        "income": "$1,707.68"
+      },
+      {
+        "description": "2017-1",
+        "spent": "-$4,111.48",
+        "income": "$3,486.48"
+      },
+      {
+        "description": "2016-12",
+        "spent": "-$3,075.10",
+        "income": "$3,966.25"
+      },
+      {
+        "description": "2016-11",
+        "spent": "-$4,858.45",
+        "income": "$3,441.83"
+      },
+      {
+        "description": "2016-10",
+        "spent": "-$3,285.59",
+        "income": "$2,209.91"
+      },
+      {
+        "description": "2016-9",
+        "spent": "-$3,216.84",
+        "income": "$2,229.63"
+      },
+      {
+        "description": "2016-8",
+        "spent": "-$3,575.89",
+        "income": "$3,922.33"
+      },
+      {
+        "description": "2016-7",
+        "spent": "-$3,262.42",
+        "income": "$3,928.23"
+      },
+      {
+        "description": "2016-6",
+        "spent": "-$3,272.81",
+        "income": "$3,927.78"
+      },
+      {
+        "description": "2016-5",
+        "spent": "-$3,538.46",
+        "income": "$3,991.18"
+      },
+      {
+        "description": "2016-4",
+        "spent": "-$3,907.80",
+        "income": "$3,917.40"
+      },
+      {
+        "description": "2016-3",
+        "spent": "-$4,223.42",
+        "income": "$3,386.61"
+      },
+      {
+        "description": "2016-2",
+        "spent": "-$3,096.93",
+        "income": "$3,451.38"
+      },
+      {
+        "description": "2016-1",
+        "spent": "-$2,828.18",
+        "income": "$2,242.89"
+      },
+      {
+        "description": "2015-12",
+        "spent": "-$3,236.09",
+        "income": "$1,725.57"
+      },
+      {
+        "description": "2015-11",
+        "spent": "-$3,106.28",
+        "income": "$3,977.78"
+      },
+      {
+        "description": "2015-10",
+        "spent": "-$3,299.23",
+        "income": "$1,717.43"
+      },
+      {
+        "description": "2015-9",
+        "spent": "-$3,105.88",
+        "income": "$3,922.72"
+      },
+      {
+        "description": "2015-8",
+        "spent": "-$2,666.93",
+        "income": "$3,384.88"
+      },
+      {
+        "description": "2015-7",
+        "spent": "-$3,894.82",
+        "income": "$3,917.18"
+      },
+      {
+        "description": "2015-6",
+        "spent": "-$3,915.03",
+        "income": "$3,918.23"
+      },
+      {
+        "description": "2015-5",
+        "spent": "-$2,704.42",
+        "income": "$3,416.40"
+      },
+      {
+        "description": "2015-4",
+        "spent": "-$2,985.45",
+        "income": "$3,943.68"
+      },
+      {
+        "description": "2015-3",
+        "spent": "-$3,460.17",
+        "income": "$3,942.73"
+      },
+      {
+        "description": "2015-2",
+        "spent": "-$4,217.99",
+        "income": "$3,936.64"
+      },
+      {
+        "description": "2015-1",
+        "spent": "-$3,811.42",
+        "income": "$3,925.98"
+      },
+      {
+        "description": "2014-12",
+        "spent": "-$4,736.98",
+        "income": "$3,954.32"
+      },
+      {
+        "description": "2014-11",
+        "spent": "-$4,674.47",
+        "income": "$3,949.51"
+      },
+      {
+        "description": "2014-10",
+        "spent": "-$1,578.44",
+        "income": "$3,429.79"
+      }
+    ],
+    "excludedCreditCardPayments": null
+  }
+]

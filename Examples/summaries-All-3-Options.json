@@ -1,0 +1,551 @@
+[
+  {
+    "ignoreDonuts": true,
+    "crystalBall": true,
+    "ignoreCcPayments": true,
+    "averageMonth": {
+      "description": "Average",
+      "spent": "-$3,128.01",
+      "income": "$3,110.02"
+    },
+    "months": [
+      {
+        "description": "2017-4",
+        "spent": "-$3,146.55",
+        "income": "$3,417.82"
+      },
+      {
+        "description": "2017-3",
+        "spent": "-$4,178.89",
+        "income": "$3,470.61"
+      },
+      {
+        "description": "2017-2",
+        "spent": "-$3,433.05",
+        "income": "$1,707.68"
+      },
+      {
+        "description": "2017-1",
+        "spent": "-$4,016.64",
+        "income": "$3,486.48"
+      },
+      {
+        "description": "2016-12",
+        "spent": "-$2,494.39",
+        "income": "$3,446.80"
+      },
+      {
+        "description": "2016-11",
+        "spent": "-$4,782.30",
+        "income": "$3,441.83"
+      },
+      {
+        "description": "2016-10",
+        "spent": "-$2,689.02",
+        "income": "$1,690.46"
+      },
+      {
+        "description": "2016-9",
+        "spent": "-$2,595.10",
+        "income": "$1,710.18"
+      },
+      {
+        "description": "2016-8",
+        "spent": "-$2,971.30",
+        "income": "$3,402.88"
+      },
+      {
+        "description": "2016-7",
+        "spent": "-$2,655.48",
+        "income": "$3,408.78"
+      },
+      {
+        "description": "2016-6",
+        "spent": "-$2,671.37",
+        "income": "$3,408.33"
+      },
+      {
+        "description": "2016-5",
+        "spent": "-$2,963.24",
+        "income": "$3,471.73"
+      },
+      {
+        "description": "2016-4",
+        "spent": "-$3,372.13",
+        "income": "$3,397.95"
+      },
+      {
+        "description": "2016-3",
+        "spent": "-$4,175.15",
+        "income": "$3,386.61"
+      },
+      {
+        "description": "2016-2",
+        "spent": "-$3,038.19",
+        "income": "$3,451.38"
+      },
+      {
+        "description": "2016-1",
+        "spent": "-$2,721.55",
+        "income": "$2,242.89"
+      },
+      {
+        "description": "2015-12",
+        "spent": "-$3,174.02",
+        "income": "$1,725.57"
+      },
+      {
+        "description": "2015-11",
+        "spent": "-$2,541.27",
+        "income": "$3,458.33"
+      },
+      {
+        "description": "2015-10",
+        "spent": "-$3,250.70",
+        "income": "$1,717.43"
+      },
+      {
+        "description": "2015-9",
+        "spent": "-$2,521.36",
+        "income": "$3,403.27"
+      },
+      {
+        "description": "2015-8",
+        "spent": "-$2,607.50",
+        "income": "$3,384.88"
+      },
+      {
+        "description": "2015-7",
+        "spent": "-$3,315.17",
+        "income": "$3,397.73"
+      },
+      {
+        "description": "2015-6",
+        "spent": "-$3,318.63",
+        "income": "$3,398.78"
+      },
+      {
+        "description": "2015-5",
+        "spent": "-$2,671.80",
+        "income": "$3,416.40"
+      },
+      {
+        "description": "2015-4",
+        "spent": "-$2,395.20",
+        "income": "$3,424.23"
+      },
+      {
+        "description": "2015-3",
+        "spent": "-$2,834.95",
+        "income": "$3,423.28"
+      },
+      {
+        "description": "2015-2",
+        "spent": "-$3,602.33",
+        "income": "$3,417.19"
+      },
+      {
+        "description": "2015-1",
+        "spent": "-$3,196.40",
+        "income": "$3,406.53"
+      },
+      {
+        "description": "2014-12",
+        "spent": "-$4,052.15",
+        "income": "$3,434.87"
+      },
+      {
+        "description": "2014-11",
+        "spent": "-$4,104.14",
+        "income": "$3,430.06"
+      },
+      {
+        "description": "2014-10",
+        "spent": "-$1,478.21",
+        "income": "$3,429.79"
+      }
+    ],
+    "excludedCreditCardPayments": [
+      {
+        "item1": {
+          "transactionId": "1415042820000",
+          "transactionTime": "2014-11-03T10:58:00-08:00",
+          "amount": 5194500,
+          "bankAccount": "nonce:comfy-cc/hdhehe",
+          "merchant": "Credit Card Payment",
+          "isPending": false,
+          "categorization": "Unknown"
+        },
+        "item2": {
+          "transactionId": "1415193660000",
+          "transactionTime": "2014-11-03T12:58:00-08:00",
+          "amount": -5194500,
+          "bankAccount": "nonce:comfy-checking/hdhehe",
+          "merchant": "CC Payment",
+          "isPending": false,
+          "categorization": "Unknown"
+        }
+      },
+      {
+        "item1": {
+          "transactionId": "1417643220000",
+          "transactionTime": "2014-12-02T21:02:00-08:00",
+          "amount": 5194500,
+          "bankAccount": "nonce:comfy-cc/hdhehe",
+          "merchant": "Credit Card Payment",
+          "isPending": false,
+          "categorization": "Unknown"
+        },
+        "item2": {
+          "transactionId": "1417724460000",
+          "transactionTime": "2014-12-02T23:44:00-08:00",
+          "amount": -5194500,
+          "bankAccount": "nonce:comfy-checking/hdhehe",
+          "merchant": "CC Payment",
+          "isPending": false,
+          "categorization": "Unknown"
+        }
+      },
+      {
+        "item1": {
+          "transactionId": "1420296360000",
+          "transactionTime": "2015-01-02T04:34:00-08:00",
+          "amount": -5194500,
+          "bankAccount": "nonce:comfy-checking/hdhehe",
+          "merchant": "CC Payment",
+          "isPending": false,
+          "categorization": "Unknown"
+        },
+        "item2": {
+          "transactionId": "1420307220000",
+          "transactionTime": "2015-01-02T06:25:00-08:00",
+          "amount": 5194500,
+          "bankAccount": "nonce:comfy-cc/hdhehe",
+          "merchant": "Credit Card Payment",
+          "isPending": false,
+          "categorization": "Unknown"
+        }
+      },
+      {
+        "item1": {
+          "transactionId": "1423073820000",
+          "transactionTime": "2015-02-02T13:44:00-08:00",
+          "amount": -5194500,
+          "bankAccount": "nonce:comfy-checking/hdhehe",
+          "merchant": "CC Payment",
+          "isPending": false,
+          "categorization": "Unknown"
+        },
+        "item2": {
+          "transactionId": "1423001100000",
+          "transactionTime": "2015-02-02T21:28:00-08:00",
+          "amount": 5194500,
+          "bankAccount": "nonce:comfy-cc/hdhehe",
+          "merchant": "Credit Card Payment",
+          "isPending": false,
+          "categorization": "Unknown"
+        }
+      },
+      {
+        "item1": {
+          "transactionId": "1425608100000",
+          "transactionTime": "2015-03-02T21:58:00-08:00",
+          "amount": 5194500,
+          "bankAccount": "nonce:comfy-cc/hdhehe",
+          "merchant": "Credit Card Payment",
+          "isPending": false,
+          "categorization": "Unknown"
+        },
+        "item2": {
+          "transactionId": "1425442800000",
+          "transactionTime": "2015-03-02T23:22:00-08:00",
+          "amount": -5194500,
+          "bankAccount": "nonce:comfy-checking/hdhehe",
+          "merchant": "CC Payment",
+          "isPending": false,
+          "categorization": "Unknown"
+        }
+      },
+      {
+        "item1": {
+          "transactionId": "1428088140000",
+          "transactionTime": "2015-04-02T09:18:00-07:00",
+          "amount": -5194500,
+          "bankAccount": "nonce:comfy-checking/hdhehe",
+          "merchant": "CC Payment",
+          "isPending": false,
+          "categorization": "Unknown"
+        },
+        "item2": {
+          "transactionId": "1428130140000",
+          "transactionTime": "2015-04-02T16:05:00-07:00",
+          "amount": 5194500,
+          "bankAccount": "nonce:comfy-cc/hdhehe",
+          "merchant": "Credit Card Payment",
+          "isPending": false,
+          "categorization": "Unknown"
+        }
+      },
+      {
+        "item1": {
+          "transactionId": "1433497680000",
+          "transactionTime": "2015-06-02T17:00:00-07:00",
+          "amount": 5194500,
+          "bankAccount": "nonce:comfy-cc/hdhehe",
+          "merchant": "Credit Card Payment",
+          "isPending": false,
+          "categorization": "Unknown"
+        },
+        "item2": {
+          "transactionId": "1433396340000",
+          "transactionTime": "2015-06-02T17:00:00-07:00",
+          "amount": -5194500,
+          "bankAccount": "nonce:comfy-checking/hdhehe",
+          "merchant": "CC Payment",
+          "isPending": false,
+          "categorization": "Unknown"
+        }
+      },
+      {
+        "item1": {
+          "transactionId": "1435943640000",
+          "transactionTime": "2015-07-02T17:00:00-07:00",
+          "amount": -5194500,
+          "bankAccount": "nonce:comfy-checking/hdhehe",
+          "merchant": "CC Payment",
+          "isPending": false,
+          "categorization": "Unknown"
+        },
+        "item2": {
+          "transactionId": "1436268120000",
+          "transactionTime": "2015-07-02T17:00:00-07:00",
+          "amount": 5194500,
+          "bankAccount": "nonce:comfy-cc/hdhehe",
+          "merchant": "Credit Card Payment",
+          "isPending": false,
+          "categorization": "Unknown"
+        }
+      },
+      {
+        "item1": {
+          "transactionId": "1441313880000",
+          "transactionTime": "2015-09-02T17:00:00-07:00",
+          "amount": 5194500,
+          "bankAccount": "nonce:comfy-cc/hdhehe",
+          "merchant": "Credit Card Payment",
+          "isPending": false,
+          "categorization": "Unknown"
+        },
+        "item2": {
+          "transactionId": "1441313160000",
+          "transactionTime": "2015-09-02T17:00:00-07:00",
+          "amount": -5194500,
+          "bankAccount": "nonce:comfy-checking/hdhehe",
+          "merchant": "CC Payment",
+          "isPending": false,
+          "categorization": "Unknown"
+        }
+      },
+      {
+        "item1": {
+          "transactionId": "1446735360000",
+          "transactionTime": "2015-11-02T16:00:00-08:00",
+          "amount": -5194500,
+          "bankAccount": "nonce:comfy-checking/hdhehe",
+          "merchant": "CC Payment",
+          "isPending": false,
+          "categorization": "Unknown"
+        },
+        "item2": {
+          "transactionId": "1446733980000",
+          "transactionTime": "2015-11-02T16:00:00-08:00",
+          "amount": 5194500,
+          "bankAccount": "nonce:comfy-cc/hdhehe",
+          "merchant": "Credit Card Payment",
+          "isPending": false,
+          "categorization": "Unknown"
+        }
+      },
+      {
+        "item1": {
+          "transactionId": "1459913640000",
+          "transactionTime": "2016-04-02T17:00:00-07:00",
+          "amount": -5194500,
+          "bankAccount": "nonce:comfy-checking/hdhehe",
+          "merchant": "CC Payment",
+          "isPending": false,
+          "categorization": "Credit Card Payment"
+        },
+        "item2": {
+          "transactionId": "1459724580000",
+          "transactionTime": "2016-04-02T17:00:00-07:00",
+          "amount": 5194500,
+          "bankAccount": "nonce:comfy-cc/hdhehe",
+          "merchant": "Credit Card Payment",
+          "isPending": false,
+          "categorization": "Credit Card Payment"
+        }
+      },
+      {
+        "item1": {
+          "transactionId": "1462247280000",
+          "transactionTime": "2016-05-02T17:00:00-07:00",
+          "amount": -5194500,
+          "bankAccount": "nonce:comfy-checking/hdhehe",
+          "merchant": "CC Payment",
+          "isPending": false,
+          "categorization": "Credit Card Payment"
+        },
+        "item2": {
+          "transactionId": "1462516800000",
+          "transactionTime": "2016-05-02T17:00:00-07:00",
+          "amount": 5194500,
+          "bankAccount": "nonce:comfy-cc/hdhehe",
+          "merchant": "Credit Card Payment",
+          "isPending": false,
+          "categorization": "Credit Card Payment"
+        }
+      },
+      {
+        "item1": {
+          "transactionId": "1465220520000",
+          "transactionTime": "2016-06-02T17:00:00-07:00",
+          "amount": 5194500,
+          "bankAccount": "nonce:comfy-cc/hdhehe",
+          "merchant": "Credit Card Payment",
+          "isPending": false,
+          "categorization": "Credit Card Payment"
+        },
+        "item2": {
+          "transactionId": "1464928560000",
+          "transactionTime": "2016-06-02T17:00:00-07:00",
+          "amount": -5194500,
+          "bankAccount": "nonce:comfy-checking/hdhehe",
+          "merchant": "CC Payment",
+          "isPending": false,
+          "categorization": "Credit Card Payment"
+        }
+      },
+      {
+        "item1": {
+          "transactionId": "1467785760000",
+          "transactionTime": "2016-07-02T17:00:00-07:00",
+          "amount": -5194500,
+          "bankAccount": "nonce:comfy-checking/hdhehe",
+          "merchant": "CC Payment",
+          "isPending": false,
+          "categorization": "Credit Card Payment"
+        },
+        "item2": {
+          "transactionId": "1467622920000",
+          "transactionTime": "2016-07-02T17:00:00-07:00",
+          "amount": 5194500,
+          "bankAccount": "nonce:comfy-cc/hdhehe",
+          "merchant": "Credit Card Payment",
+          "isPending": false,
+          "categorization": "Credit Card Payment"
+        }
+      },
+      {
+        "item1": {
+          "transactionId": "1470195540000",
+          "transactionTime": "2016-08-02T17:00:00-07:00",
+          "amount": 5194500,
+          "bankAccount": "nonce:comfy-cc/hdhehe",
+          "merchant": "Credit Card Payment",
+          "isPending": false,
+          "categorization": "Credit Card Payment"
+        },
+        "item2": {
+          "transactionId": "1470424620000",
+          "transactionTime": "2016-08-02T17:00:00-07:00",
+          "amount": -5194500,
+          "bankAccount": "nonce:comfy-checking/hdhehe",
+          "merchant": "CC Payment",
+          "isPending": false,
+          "categorization": "Credit Card Payment"
+        }
+      },
+      {
+        "item1": {
+          "transactionId": "1472951400000",
+          "transactionTime": "2016-09-02T17:00:00-07:00",
+          "amount": 5194500,
+          "bankAccount": "nonce:comfy-cc/hdhehe",
+          "merchant": "Credit Card Payment",
+          "isPending": false,
+          "categorization": "Credit Card Payment"
+        },
+        "item2": {
+          "transactionId": "1472876340000",
+          "transactionTime": "2016-09-02T17:00:00-07:00",
+          "amount": -5194500,
+          "bankAccount": "nonce:comfy-checking/hdhehe",
+          "merchant": "CC Payment",
+          "isPending": false,
+          "categorization": "Credit Card Payment"
+        }
+      },
+      {
+        "item1": {
+          "transactionId": "1475459040000",
+          "transactionTime": "2016-10-02T17:00:00-07:00",
+          "amount": 5194500,
+          "bankAccount": "nonce:comfy-cc/hdhehe",
+          "merchant": "Credit Card Payment",
+          "isPending": false,
+          "categorization": "Credit Card Payment"
+        },
+        "item2": {
+          "transactionId": "1475795040000",
+          "transactionTime": "2016-10-02T17:00:00-07:00",
+          "amount": -5194500,
+          "bankAccount": "nonce:comfy-checking/hdhehe",
+          "merchant": "CC Payment",
+          "isPending": false,
+          "categorization": "Credit Card Payment"
+        }
+      },
+      {
+        "item1": {
+          "transactionId": "1480810080000",
+          "transactionTime": "2016-12-02T16:00:00-08:00",
+          "amount": 5194500,
+          "bankAccount": "nonce:comfy-cc/hdhehe",
+          "merchant": "Credit Card Payment",
+          "isPending": false,
+          "categorization": "Credit Card Payment"
+        },
+        "item2": {
+          "transactionId": "1480790460000",
+          "transactionTime": "2016-12-02T16:00:00-08:00",
+          "amount": -5194500,
+          "bankAccount": "nonce:comfy-checking/hdhehe",
+          "merchant": "CC Payment",
+          "isPending": false,
+          "categorization": "Credit Card Payment"
+        }
+      },
+      {
+        "item1": {
+          "transactionId": "1491306840000",
+          "transactionTime": "2017-04-02T17:00:00-07:00",
+          "amount": -5194500,
+          "bankAccount": "nonce:comfy-checking/hdhehe",
+          "merchant": "CC Payment",
+          "isPending": false,
+          "categorization": "Credit Card Payment"
+        },
+        "item2": {
+          "transactionId": "1491306780000",
+          "transactionTime": "2017-04-02T17:00:00-07:00",
+          "amount": 5194500,
+          "bankAccount": "nonce:comfy-cc/hdhehe",
+          "merchant": "Credit Card Payment",
+          "isPending": false,
+          "categorization": "Credit Card Payment"
+        }
+      }
+    ]
+  }
+]
