@@ -31,3 +31,7 @@ Used to ignore merchants that sell donuts (where the merchant is "Krispy Kreme D
 Use .NET Core 1.1 and Visual Studio 2017.
 
 https://www.microsoft.com/net/core#windowsvs2017
+
+# Tests:
++ Unit tests for each component, plug-in and algorithm.
++ TODO: Add unit tests for the controller itself.
