@@ -4,6 +4,9 @@ using SourceBankTransaction = CapitalOne.CodingExcercise.Summary.Model.BankTrans
 
 namespace CapitalOne.CodingExcercise.SummaryApi.ViewModels
 {
+    /// <summary>
+    /// Data contract to display transactions to the user.
+    /// </summary>
     public class BankTransaction
     {
         /// <summary>
@@ -17,12 +20,9 @@ namespace CapitalOne.CodingExcercise.SummaryApi.ViewModels
         public DateTime TransactionTime { get; set; }
 
         /// <summary>
-        /// The amount of the transaction.
+        /// The formatted amount to display.
         /// </summary>
-        /// <remarks>
-        /// Negative amount = debit, positive amount = credit.Centocents. 20000 centocents = $2.
-        /// </remarks>
-        public long Amount { get; set; }
+        public string Amount { get; set; }
 
         /// <summary>
         /// The bank account the transaction is associated with.
@@ -52,12 +52,13 @@ namespace CapitalOne.CodingExcercise.SummaryApi.ViewModels
         {
             if (summaryBankTransaction == null)
                 return null;
-
+            string formattedAmount = MonthlySummaryView.FormatAmountWithNegativeSign(
+                amount: MonthlySummaryView.CentoCentsToDollars(summaryBankTransaction.Amount));
             BankTransaction bankTransaction = new BankTransaction()
             {
                 TransactionId = summaryBankTransaction.TransactionId,
                 TransactionTime = summaryBankTransaction.TransactionTime,
-                Amount = summaryBankTransaction.Amount,
+                Amount = formattedAmount,
                 BankAccount = summaryBankTransaction.BankAccount,
                 Merchant = summaryBankTransaction.Merchant,
                 Categorization = summaryBankTransaction.Categorization,

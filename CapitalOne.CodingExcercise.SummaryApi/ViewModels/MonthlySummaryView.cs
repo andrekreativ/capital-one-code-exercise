@@ -11,7 +11,7 @@ namespace CapitalOne.CodingExcercise.SummaryApi.ViewModels
     /// Data contract used to show the summary for a month that is displayed to the user.
     /// </summary>
     /// <remarks>
-    /// TODO: Refactor code to take out the formating methods and logic.
+    /// TODO: Move the methods that format amounts to their own class and define an interface to allow using diffent formatting classes.
     /// </remarks>
     [DataContract(Name = "monthlysummary")]
     public class MonthlySummaryView
