@@ -36,3 +36,8 @@ https://www.microsoft.com/net/core#windowsvs2017
 + Unit tests for each component, plug-in and algorithm.
 + TODO: Add unit tests for the controller itself.
 + TODO: Add Integration, performance and stress tests.
+
+# Architecture:
+<br/>
+
+![Architecture Diagram](https://github.com/trackrunner/capital-one-code-exercise/blob/master/Diagrams/ArchitectureDiagram.JPG)
